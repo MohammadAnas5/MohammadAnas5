@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=003140&height=230&section=header&text=Mohammad%20Anas&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile%20and%20Repo!&descAlignY=51&descAlign=62" width="1100">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d2b38&height=230&section=header&text=Mohammad%20Anas&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20GitHub%20Profile%20and%20Repo!&descAlignY=51&Align=62&fontColor=ffffff" width="1100">
 
 
 hi, i'm [Mohammad Anas](https://mohammadanas5.github.io/DataPortfolio/), a passionate self-taught aspiring data analyst from india. Passionate about turning data into actionable insights. They are curious problem solvers who look for patterns and trends in data to help inform decisions. They enjoy the challenge of finding creative ways to answer questions and develop solutions. They are meticulous record-keepers who use their analytical skills to uncover hidden information and make sense of complex datasets. They strive to help organizations make better informed decisions and improve their operations.
